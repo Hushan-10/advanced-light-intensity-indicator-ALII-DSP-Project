@@ -30,8 +30,7 @@ The system continuously measures ambient light intensity and displays the corres
 ---
 
 ## 📸 Preview
-  
 
-```markdown
-<img width="1099" height="827" alt="Screenshot 2025-07-22 223310" src="https://github.com/user-attachments/assets/3954e2f5-62be-4837-92ec-d2e8c5eea7a6" />
+<img width="1711" height="904" alt="Screenshot 2025-09-19 104027" src="https://github.com/user-attachments/assets/36e92f31-7630-49b9-9815-a8f72990e47d" />
+
 
